@@ -1,0 +1,191 @@
+﻿@{
+    ViewData["Title"] = "Realizar Transferencia";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eureka Bank - Transferencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(to right, #6a11cb, #2575fc);
+            margin: 0;
+            display: flex;
+        }
+
+
+        .central-container {
+            margin-left: 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            width: 100%;
+        }
+
+        .transfer-box {
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            width: 100%;
+            max-width: 500px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+            .transfer-box h1 {
+                margin-bottom: 30px;
+                color: #333;
+            }
+
+        input[type="text"],
+        input[type="number"] {
+            width: 100%;
+            padding: 14px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            background-color: #fafafa;
+        }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            background-color: #6a11cb;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            button:hover {
+                background-color: #5011a1;
+            }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: white;
+            padding: 30px;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 350px;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+
+            .modal-content h2 {
+                margin-top: 15px;
+                font-size: 20px;
+                font-weight: 600;
+            }
+
+        .checkmark-circle {
+            display: inline-block;
+            width: 60px;
+            height: 60px;
+            background-color: #ffd700;
+            border-radius: 50%;
+            position: relative;
+        }
+
+            .checkmark-circle::after {
+                content: "✔";
+                color: #003e7e;
+                font-size: 30px;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+        .modal-content button {
+            margin-top: 20px;
+            background-color: #6a11cb;
+            color: white;
+            padding: 10px 25px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            .modal-content button:hover {
+                background-color: #ffd700;
+                color: #003e7e;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="central-container">
+        <div class="transfer-box">
+            <h1>Realizar Transferencia</h1>
+            <form id="transferForm" method="post" action="/Home/Transferencia" onsubmit="return handleTransfer(event)">
+                <input type="text" name="cuentaOrigen" placeholder="Cuenta Origen" required />
+                <input type="text" name="cuentaDestino" placeholder="Cuenta Destino" required />
+                <input type="number" name="valor" placeholder="Cantidad a Transferir" min="0.01" step="0.01" required />
+                <button type="submit">Transferir</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="checkmark-circle"></div>
+            <h2>Transferencia registrada exitosamente</h2>
+            <button onclick="goToMenu()">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        async function handleTransfer(event) {
+            event.preventDefault();
+            const form = document.getElementById('transferForm');
+            const formData = new FormData(form);
+
+            try {
+                const response = await fetch(form.action, {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (response.ok) {
+                    showModal();
+                } else {
+                    alert('Error al realizar la transferencia.');
+                }
+            } catch (error) {
+                alert('Error de conexión.');
+                console.error(error);
+            }
+        }
+
+        function showModal() {
+            document.getElementById('modal').style.display = 'flex';
+        }
+
+        function goToMenu() {
+            window.location.href = '/Home/Index';
+        }
+    </script>
+</body>
+</html>

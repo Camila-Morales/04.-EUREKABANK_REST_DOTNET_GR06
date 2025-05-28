@@ -1,0 +1,130 @@
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6a11cb">
+
+    <!-- Contenido Principal -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Cuadro de Consulta -->
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="24dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:background="@drawable/rounded_white_box"
+                android:elevation="8dp"
+                android:padding="30dp">
+
+                <!-- Logo -->
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="Logo" />
+
+                <!-- Título -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Consulta de Movimientos"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#333333"
+                    android:layout_marginBottom="24dp" />
+
+                <!-- Campo para número de cuenta -->
+                <EditText
+                    android:id="@+id/etNumeroCuenta"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Número de cuenta"
+                    android:inputType="text"
+                    android:background="@drawable/rounded_edittext"
+                    android:padding="12dp"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Botón consultar -->
+                <Button
+                    android:id="@+id/btnBuscarMovimientos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Consultar"
+                    android:textStyle="bold"
+                    android:backgroundTint="#6a11cb"
+                    android:textColor="#FFFFFF"
+                    android:padding="12dp"
+                    android:layout_marginBottom="20dp" />
+
+                <!-- Saldo actual -->
+                <TextView
+                    android:id="@+id/tvSaldoActual"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Saldo actual:"
+                    android:textStyle="bold"
+                    android:textColor="#333333"
+                    android:textSize="16sp"
+                    android:layout_marginBottom="16dp"
+                    android:visibility="gone" />
+
+                <!-- RecyclerView para los movimientos -->
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerViewMovimientos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp" />
+
+                <!-- Texto para mostrar errores -->
+                <TextView
+                    android:id="@+id/tvMensajeError"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FF0000"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:visibility="gone" />
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+
+    <!-- Menú lateral -->
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_gravity="start"
+        android:padding="16dp">
+
+        <!-- Logo institucional -->
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/espe"
+            android:contentDescription="Logo ESPE"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Botón volver -->
+        <Button
+            android:id="@+id/btnVolverMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Volver al Menú"
+            android:background="@drawable/rounded_button"
+            android:textColor="#003E7E"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+    </LinearLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

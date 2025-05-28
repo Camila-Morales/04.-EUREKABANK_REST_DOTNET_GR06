@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6a11cb">
+
+    <!-- Contenido Principal -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Barra Superior -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/btnDrawer"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@android:drawable/ic_menu_more"
+                android:contentDescription="Abrir menú" />
+        </LinearLayout>
+
+        <!-- Cuadro de Retiro -->
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="32dp"
+            android:orientation="vertical"
+            android:padding="30dp"
+            android:gravity="center"
+            android:background="@android:color/white"
+            android:elevation="10dp"
+            android:layout_marginTop="60dp">
+
+            <!-- Título -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24dp"
+                android:gravity="center"
+                android:text="Realizar Retiro"
+                android:textColor="#333333"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!-- Número de Cuenta -->
+            <EditText
+                android:id="@+id/etCuenta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:hint="Número de Cuenta"
+                android:background="@android:drawable/edit_text"
+                android:padding="12dp"
+                android:textSize="16sp" />
+
+            <!-- Monto -->
+            <EditText
+                android:id="@+id/etMonto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:hint="Cantidad a Retirar"
+                android:inputType="numberDecimal"
+                android:background="@android:drawable/edit_text"
+                android:padding="12dp"
+                android:textSize="16sp" />
+
+            <!-- Nota -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="8dp"
+                android:layout_marginBottom="16dp"
+                android:background="#E3F2FD">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginRight="8dp"
+                    android:src="@android:drawable/ic_dialog_info" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Este retiro no tiene costo."
+                    android:textColor="#003E7E"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <!-- Botón Retirar -->
+            <Button
+                android:id="@+id/btnRetirar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Retirar"
+                android:textColor="#FFFFFF"
+                android:background="#6a11cb"
+                android:padding="12dp"
+                android:textStyle="bold"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <!-- Drawer -->
+    <LinearLayout
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_gravity="start"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/btnVolverMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Volver al Menú"
+            android:textStyle="bold"
+            android:textColor="#003E7E"
+            android:background="#E0E0E0" />
+    </LinearLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

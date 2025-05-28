@@ -1,0 +1,2082 @@
+{
+  "Version": 1,
+  "Hash": "wfbfKObxIlps2gFazngsix7grz6jO1MaZ+8sWR0+Od4=",
+  "Source": "Eurekabank Cliente_Dotnet Rest_G5",
+  "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Eurekabank Cliente_Dotnet Rest_G5\\wwwroot",
+      "Source": "Eurekabank Cliente_Dotnet Rest_G5",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "Eurekabank Cliente_Dotnet Rest_G5#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "bm4utsxvf5",
+      "Integrity": "HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "Eurekabank Cliente_Dotnet Rest_G5#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bm4utsxvf5",
+      "Integrity": "HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oq8r4nbcb2",
+      "Integrity": "AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dhyccj5qtq",
+      "Integrity": "bz4WEkFVufqHV3DRXgO5WJFPb0njJJbkSLwsgZLSni0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "imagenes/monster#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upys4hnhns",
+      "Integrity": "wrYjOdcDghd/Spl0xpik4+/atPv/j9+RYkBLc4EzO1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\monster.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "imagenes/monster2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cas8q9n8v1",
+      "Integrity": "zDAQuTy8LNKo2i6VMTWZUtolxqlunyViE4tUQlhSebM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\monster2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6b9nfc4n3r",
+      "Integrity": "4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81b7ukuj9c",
+      "Integrity": "ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vwa26bmbsk",
+      "Integrity": "QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5trh6b1mit",
+      "Integrity": "9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dsw5v3fbc5",
+      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdpnbaa6vo",
+      "Integrity": "yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59qolqi738",
+      "Integrity": "F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0td7jq9nxb",
+      "Integrity": "XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqejeusuyq",
+      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:25:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.oq8r4nbcb2.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:25:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oq8r4nbcb2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL+c="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bz4WEkFVufqHV3DRXgO5WJFPb0njJJbkSLwsgZLSni0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bz4WEkFVufqHV3DRXgO5WJFPb0njJJbkSLwsgZLSni0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.dhyccj5qtq.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bz4WEkFVufqHV3DRXgO5WJFPb0njJJbkSLwsgZLSni0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:37:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhyccj5qtq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bz4WEkFVufqHV3DRXgO5WJFPb0njJJbkSLwsgZLSni0="
+        }
+      ]
+    },
+    {
+      "Route": "Eurekabank Cliente_Dotnet Rest_G5.bm4utsxvf5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm4utsxvf5"
+        },
+        {
+          "Name": "label",
+          "Value": "Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI="
+        }
+      ]
+    },
+    {
+      "Route": "Eurekabank Cliente_Dotnet Rest_G5.bm4utsxvf5.styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bm4utsxvf5"
+        },
+        {
+          "Name": "label",
+          "Value": "Eurekabank Cliente_Dotnet Rest_G5.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI="
+        }
+      ]
+    },
+    {
+      "Route": "Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI="
+        }
+      ]
+    },
+    {
+      "Route": "Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/monster.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wrYjOdcDghd/Spl0xpik4+/atPv/j9+RYkBLc4EzO1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 04:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wrYjOdcDghd/Spl0xpik4+/atPv/j9+RYkBLc4EzO1A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/monster.upys4hnhns.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19210"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wrYjOdcDghd/Spl0xpik4+/atPv/j9+RYkBLc4EzO1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 04:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upys4hnhns"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/monster.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wrYjOdcDghd/Spl0xpik4+/atPv/j9+RYkBLc4EzO1A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/monster2.cas8q9n8v1.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zDAQuTy8LNKo2i6VMTWZUtolxqlunyViE4tUQlhSebM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 04:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cas8q9n8v1"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/monster2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zDAQuTy8LNKo2i6VMTWZUtolxqlunyViE4tUQlhSebM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/monster2.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155967"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zDAQuTy8LNKo2i6VMTWZUtolxqlunyViE4tUQlhSebM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 04:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zDAQuTy8LNKo2i6VMTWZUtolxqlunyViE4tUQlhSebM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.6b9nfc4n3r.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b9nfc4n3r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81b7ukuj9c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5trh6b1mit"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dsw5v3fbc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwa26bmbsk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdpnbaa6vo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59qolqi738"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0td7jq9nxb"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
+      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Jun 2023 16:31:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqejeusuyq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    }
+  ]
+}

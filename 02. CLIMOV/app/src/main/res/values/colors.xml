@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#FFD700</color> <!-- Botones (Dorado) -->
+    <color name="secondaryColor">#003E7E</color> <!-- Textos y otros elementos (Azul oscuro) -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Fondo blanco -->
+    <color name="textColor">#003E7E</color> <!-- Texto principal (Azul oscuro) -->
+</resources>

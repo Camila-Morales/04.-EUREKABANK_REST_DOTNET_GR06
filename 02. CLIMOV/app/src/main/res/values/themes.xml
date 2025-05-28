@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CLIMOV_EUREKA_REST_DOTNET" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Color primario (botones y elementos destacados) -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryContainer">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/backgroundColor</item>
+
+        <!-- Color secundario (textos y bordes) -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryContainer">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/backgroundColor</item>
+
+        <!-- Fondo de la aplicación -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColorPrimary">@color/textColor</item>
+    </style>
+    <style name="Theme.CLIMOV_EUREKA_REST_DOTNET" parent="Base.Theme.CLIMOV_EUREKA_REST_DOTNET" />
+</resources>

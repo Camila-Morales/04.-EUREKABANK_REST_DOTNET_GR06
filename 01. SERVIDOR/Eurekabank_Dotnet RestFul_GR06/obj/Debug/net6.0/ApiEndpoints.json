@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.controlador.EurekabankControlador",
+    "Method": "Deposito",
+    "RelativePath": "api/EurekabankControlador/Deposito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.controlador.EurekabankControlador",
+    "Method": "Movimientos",
+    "RelativePath": "api/EurekabankControlador/Movimientos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.controlador.EurekabankControlador",
+    "Method": "Retiro",
+    "RelativePath": "api/EurekabankControlador/Retiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.controlador.EurekabankControlador",
+    "Method": "Transferencia",
+    "RelativePath": "api/EurekabankControlador/Transferencia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuentaOrigen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cuentaDestino",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.controlador.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "Eurekabank_Dotnet_RestFul_G5.ec.edu.monster.modelo.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
