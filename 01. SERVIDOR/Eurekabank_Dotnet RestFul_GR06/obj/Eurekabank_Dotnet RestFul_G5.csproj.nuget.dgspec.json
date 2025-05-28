@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj": {}
+    "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj": {
+    "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
+        "projectUniqueName": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
         "projectName": "Eurekabank_Dotnet RestFul_G5",
-        "projectPath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
+        "projectPath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
         "packagesPath": "C:\\Users\\Camila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\obj\\",
+        "outputPath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

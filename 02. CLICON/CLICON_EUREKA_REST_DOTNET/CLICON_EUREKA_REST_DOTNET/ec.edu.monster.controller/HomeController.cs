@@ -61,7 +61,7 @@ namespace ec.edu.monster.controller
                 return;
             }
 
-            var url = $"http://localhost:5277/api/EurekabankControlador/Movimientos?numeroCuenta={cuentaNumero}";
+            var url = $"http://10.40.17.105:5277/api/EurekabankControlador/Movimientos?numeroCuenta={cuentaNumero}";
 
             try
             {
@@ -133,7 +133,7 @@ namespace ec.edu.monster.controller
                 return;
             }
 
-            var url = $"http://localhost:5277/api/EurekabankControlador/Deposito?numeroCuenta={cuentaNumero}&valor={valor}";
+            var url = $"http://10.40.17.105:5277/api/EurekabankControlador/Deposito?numeroCuenta={cuentaNumero}&valor={valor}";
 
             try
             {
@@ -169,7 +169,7 @@ namespace ec.edu.monster.controller
                 return;
             }
 
-            var url = $"http://localhost:5277/api/EurekabankControlador/Retiro?numeroCuenta={cuentaNumero}&valor={valor}";
+            var url = $"http://10.40.17.105:5277/api/EurekabankControlador/Retiro?numeroCuenta={cuentaNumero}&valor={valor}";
 
             try
             {
@@ -207,7 +207,7 @@ namespace ec.edu.monster.controller
                 return;
             }
 
-            var url = $"http://localhost:5277/api/EurekabankControlador/Transferencia?cuentaOrigen={cuentaOrigen}&cuentaDestino={cuentaDestino}&valor={valor}";
+            var url = $"http://10.40.17.105:5277/api/EurekabankControlador/Transferencia?cuentaOrigen={cuentaOrigen}&cuentaDestino={cuentaDestino}&valor={valor}";
 
             try
             {

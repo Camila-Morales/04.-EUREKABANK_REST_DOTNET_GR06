@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj": {}
+    "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj": {
+    "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj",
+        "projectUniqueName": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj",
         "projectName": "CLICON_EUREKA_REST_DOTNET",
-        "projectPath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj",
+        "projectPath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET.csproj",
         "packagesPath": "C:\\Users\\Camila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\obj\\",
+        "outputPath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLICON\\CLICON_EUREKA_REST_DOTNET\\CLICON_EUREKA_REST_DOTNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

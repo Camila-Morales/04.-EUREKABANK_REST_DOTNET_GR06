@@ -19,7 +19,7 @@ namespace Eurekabank_Cliente_Dotnet_Rest_G5.Controllers
         {
             if (ModelState.IsValid)
             {
-                string url = "http://localhost:5277/api/Login";
+                string url = "http://10.40.17.105:5277/api/Login";
                 var content = new StringContent(JsonConvert.SerializeObject(model), System.Text.Encoding.UTF8, "application/json");
 
                 try

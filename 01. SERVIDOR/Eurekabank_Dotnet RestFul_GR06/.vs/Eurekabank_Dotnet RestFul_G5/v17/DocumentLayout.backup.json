@@ -1,48 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\",
+  "WorkspaceRootPath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.controlador\\eurekabankcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.controlador\\eurekabankcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.controlador\\eurekabankcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.servicio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.servicio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.servicio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.modelo\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.modelo\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\desktop\\04. eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|c:\\users\\camila\\documents\\github\\04.-eurekabank_rest_dotnet_gr06\\01. servidor\\eurekabank_dotnet restful_gr06\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A97B2D29-4E1D-4416-B7B7-BCEF7D1A16AF}|Eurekabank_Dotnet RestFul_G5.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -59,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Usuario.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.modelo\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Usuario.cs",
               "RelativeToolTip": "ec.edu.monster.modelo\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\LoginController.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.controlador\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\LoginController.cs",
               "RelativeToolTip": "ec.edu.monster.controlador\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.servicio\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.servicio\\UsuarioService.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.servicio\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.servicio\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.servicio\\UsuarioService.cs",
               "RelativeToolTip": "ec.edu.monster.servicio\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +95,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EurekabankControlador.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\EurekabankControlador.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\EurekabankControlador.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.controlador\\EurekabankControlador.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\EurekabankControlador.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.controlador\\EurekabankControlador.cs",
               "RelativeToolTip": "ec.edu.monster.controlador\\EurekabankControlador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T15:23:03.544Z",
               "EditorCaption": ""
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cliente.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.modelo\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cliente.cs",
               "RelativeToolTip": "ec.edu.monster.modelo\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cuenta.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.modelo\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Cuenta.cs",
               "RelativeToolTip": "ec.edu.monster.modelo\\Cuenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Program.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\appsettings.json",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -156,9 +156,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Movimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Movimiento.cs",
               "RelativeDocumentMoniker": "ec.edu.monster.modelo\\Movimiento.cs",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\ec.edu.monster.modelo\\Movimiento.cs",
               "RelativeToolTip": "ec.edu.monster.modelo\\Movimiento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +169,9 @@
               "DocumentIndex": 9,
               "Title": "Eurekabank.Tests.csproj",
               "DocumentMoniker": "C:\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
               "ToolTip": "C:\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\04. EUREKABANK_DOTNET_RESTFUL_G5\\01. SERVIDOR\\Eurekabank.Tests\\Eurekabank.Tests.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-27T04:25:56.048Z"
@@ -180,9 +180,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

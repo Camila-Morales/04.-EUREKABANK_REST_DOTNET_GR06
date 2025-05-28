@@ -37,7 +37,7 @@ public async Task<IActionResult> Movimientos(string cuentaNumero)
         return View();
     }
 
-    string url = $"http://localhost:5277/api/EurekabankControlador/Movimientos?numeroCuenta={cuentaNumero}";
+    string url = $"http://10.40.17.105:5277/api/EurekabankControlador/Movimientos?numeroCuenta={cuentaNumero}";
 
     try
     {
@@ -101,7 +101,7 @@ public async Task<IActionResult> Movimientos(string cuentaNumero)
                 return View();
             }
 
-            string url = $"http://localhost:5277/api/EurekabankControlador/Retiro?numeroCuenta={cuentaNumero}&valor={valor}";
+            string url = $"http://10.40.17.105:5277/api/EurekabankControlador/Retiro?numeroCuenta={cuentaNumero}&valor={valor}";
 
             try
             {
@@ -144,7 +144,7 @@ public async Task<IActionResult> Movimientos(string cuentaNumero)
                 return View();
             }
 
-            string url = $"http://localhost:5277/api/EurekabankControlador/Transferencia?cuentaOrigen={cuentaOrigen}&cuentaDestino={cuentaDestino}&valor={valor}";
+            string url = $"http://10.40.17.105:5277/api/EurekabankControlador/Transferencia?cuentaOrigen={cuentaOrigen}&cuentaDestino={cuentaDestino}&valor={valor}";
 
             try
             {
@@ -187,7 +187,7 @@ public async Task<IActionResult> Movimientos(string cuentaNumero)
                 return View();
             }
 
-            string url = $"http://localhost:5277/api/EurekabankControlador/Deposito?numeroCuenta={cuentaNumero}&valor={valor}";
+            string url = $"http://10.40.17.105:5277/api/EurekabankControlador/Deposito?numeroCuenta={cuentaNumero}&valor={valor}";
 
             try
             {

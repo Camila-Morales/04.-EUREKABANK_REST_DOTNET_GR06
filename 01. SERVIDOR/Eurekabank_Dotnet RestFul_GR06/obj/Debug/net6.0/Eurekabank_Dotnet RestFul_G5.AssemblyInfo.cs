@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eurekabank_Dotnet RestFul_G5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beeb365be33f42286fbabc84e6b8e56977087702")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eurekabank_Dotnet RestFul_G5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eurekabank_Dotnet RestFul_G5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

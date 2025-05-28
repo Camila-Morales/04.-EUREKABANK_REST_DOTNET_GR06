@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SR9nZUrH898=",
+  "dgSpecHash": "t8UTW95CbK4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
+  "projectFilePath": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\01. SERVIDOR\\Eurekabank_Dotnet RestFul_GR06\\Eurekabank_Dotnet RestFul_G5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Camila\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Camila\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

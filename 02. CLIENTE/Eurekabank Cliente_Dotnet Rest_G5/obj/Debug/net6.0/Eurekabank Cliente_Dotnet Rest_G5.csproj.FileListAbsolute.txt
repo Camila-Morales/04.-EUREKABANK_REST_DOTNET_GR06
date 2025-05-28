@@ -72,3 +72,41 @@ C:\Users\Camila\Desktop\04. EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank C
 C:\Users\Camila\Desktop\04. EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.pdb
 C:\Users\Camila\Desktop\04. EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.genruntimeconfig.cache
 C:\Users\Camila\Desktop\04. EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G5.dll
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\appsettings.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.staticwebassets.endpoints.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.staticwebassets.runtime.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.exe
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.deps.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.runtimeconfig.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.dll
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.pdb
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.csproj.AssemblyReference.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.AssemblyInfoInputs.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.AssemblyInfo.cs
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.RazorAssemblyInfo.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.RazorAssemblyInfo.cs
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.sourcelink.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G5.styles.css
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G5.props
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G5.props
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G5.props
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekaba.A438EA05.Up2Date
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.dll
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G5.dll
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.pdb
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G5.genruntimeconfig.cache
+C:\Users\Camila\Documents\GITHUB\04.-EUREKABANK_REST_DOTNET_GR06\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G5\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G5.dll

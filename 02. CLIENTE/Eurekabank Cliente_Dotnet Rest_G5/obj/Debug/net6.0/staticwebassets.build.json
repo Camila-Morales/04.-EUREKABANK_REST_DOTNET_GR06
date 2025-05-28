@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wfbfKObxIlps2gFazngsix7grz6jO1MaZ+8sWR0+Od4=",
+  "Hash": "WNuJhkfNPAAbXRzHzbFF3GlzzmL81aC4XHJYyq9MzGU=",
   "Source": "Eurekabank Cliente_Dotnet Rest_G5",
   "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Eurekabank Cliente_Dotnet Rest_G5\\wwwroot",
       "Source": "Eurekabank Cliente_Dotnet Rest_G5",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "Eurekabank Cliente_Dotnet Rest_G5#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "Eurekabank Cliente_Dotnet Rest_G5#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "HZCbDfchkxWbH5Evvys5crU0lqjcclY5Uj8mwK8Q0BI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "imagenes/monster#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\monster.jpg"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "imagenes/monster2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\monster2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Eurekabank Cliente_Dotnet Rest_G5",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\",
       "BasePath": "_content/Eurekabank Cliente_Dotnet Rest_G5",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -440,7 +440,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -477,7 +477,7 @@
     },
     {
       "Route": "css/site.oq8r4nbcb2.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -522,7 +522,7 @@
     },
     {
       "Route": "css/styles.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -559,7 +559,7 @@
     },
     {
       "Route": "css/styles.dhyccj5qtq.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -604,7 +604,7 @@
     },
     {
       "Route": "Eurekabank Cliente_Dotnet Rest_G5.bm4utsxvf5.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -649,7 +649,7 @@
     },
     {
       "Route": "Eurekabank Cliente_Dotnet Rest_G5.bm4utsxvf5.styles.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -694,7 +694,7 @@
     },
     {
       "Route": "Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eurekabank Cliente_Dotnet Rest_G5.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -731,7 +731,7 @@
     },
     {
       "Route": "Eurekabank Cliente_Dotnet Rest_G5.styles.css",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eurekabank Cliente_Dotnet Rest_G5.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -768,7 +768,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -813,7 +813,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -850,7 +850,7 @@
     },
     {
       "Route": "imagenes/monster.jpg",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -887,7 +887,7 @@
     },
     {
       "Route": "imagenes/monster.upys4hnhns.jpg",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -932,7 +932,7 @@
     },
     {
       "Route": "imagenes/monster2.cas8q9n8v1.jpg",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -977,7 +977,7 @@
     },
     {
       "Route": "imagenes/monster2.jpg",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\imagenes\\monster2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1014,7 +1014,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1059,7 +1059,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1096,7 +1096,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1133,7 +1133,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1178,7 +1178,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1215,7 +1215,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1260,7 +1260,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1305,7 +1305,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1342,7 +1342,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1379,7 +1379,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1469,7 +1469,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1506,7 +1506,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1580,7 +1580,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1625,7 +1625,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1670,7 +1670,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1715,7 +1715,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1752,7 +1752,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1797,7 +1797,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1834,7 +1834,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1871,7 +1871,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1916,7 +1916,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1961,7 +1961,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1998,7 +1998,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2035,7 +2035,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Users\\Camila\\Desktop\\04. EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Camila\\Documents\\GITHUB\\04.-EUREKABANK_REST_DOTNET_GR06\\02. CLIENTE\\Eurekabank Cliente_Dotnet Rest_G5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
